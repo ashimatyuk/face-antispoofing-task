@@ -34,7 +34,7 @@ P.S. I also trained model on cropped faces with given bboxes in csv and and retu
 
 Folder test_images contains personal made photos I used to pass through the model. Here are the results (if image name contains 'spoof', label should be 1):
 
-<img src='https://github.com/ashimatyuk/face_antispoofing/blob/main/results.jpg' width="200" height='200' />
+[<img src='https://github.com/ashimatyuk/face_antispoofing/blob/main/results.jpg' width="200" height='200' />](https://github.com/ashimatyuk/face-antispoofing-task/blob/main/results.jpg)
 
 # Repository_structure
 
